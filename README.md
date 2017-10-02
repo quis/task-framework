@@ -37,6 +37,7 @@ The NHS e-Referral Service combines electronic booking with a choice of place, d
 NHS Digital exists to improve health and care by providing national information, data and IT services for patients, clinicians, commissioners and researchers.
 
 ### Reference
-NHS Digital: https://digital.nhs.uk/referrals
-NHS e-Referals Programme: https://digital.nhs.uk/referrals
-NHS England Open Source Twitter: https://twitter.com/nhsopensource?lang=en
+
+* NHS Digital: https://digital.nhs.uk/referrals
+* NHS e-Referals Programme: https://digital.nhs.uk/referrals
+* NHS England Open Source Twitter: https://twitter.com/nhsopensource?lang=en

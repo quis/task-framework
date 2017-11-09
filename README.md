@@ -28,7 +28,7 @@ NHS Digital Technical Architecture – ers.ta@nhs.net
 If you are looking to build this framework into your software and would like further information please contact us at ers.ta@nhs.net.
 
 ### License
-Distributed under the Apache License, Version 2.0. See [LICENSE.txt](``LICENSE.txt``) for more information.
+Distributed under the Apache License, Version 2.0. See [LICENSE.txt](LICENSE.txt) for more information.
 
 ### About the e-Referrals programme
 The NHS e-Referral Service combines electronic booking with a choice of place, date and time for first hospital or clinic appointments. Patients can choose their first hospital or clinic appointment, book it in the GP surgery, online or on the phone.
